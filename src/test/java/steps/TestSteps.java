@@ -19,6 +19,7 @@ public class TestSteps extends WebHooks {
 
     private  final MarketLoginPage marketLoginPage= new MarketLoginPage();
 
+
     @DisplayName("Тест авторизации")
     @Given("auth in market")
     @Test
